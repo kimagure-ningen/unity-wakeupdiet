@@ -275,3 +275,11 @@ Received Import Request.
 Start importing Assets/Settings/Lit2DSceneTemplate.scenetemplate using Guid(d03ed43fc9d8a4f2e9fa70c1c7916eb9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '85288e64b0e2b48539de117299a0ce84') in 0.063144875 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
 
+========================================================================
+Received Import Request.
+  Time since last request: 85944.182670 seconds.
+  path: Assets/Sprites/dietbackground.png
+  artifactKey: Guid(16636ca1c0f304751b85065423171217) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/dietbackground.png using Guid(16636ca1c0f304751b85065423171217) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2266dc4c0ea18799ee0254e56e169a8a') in 0.318606334 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+

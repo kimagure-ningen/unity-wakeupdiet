@@ -363,3 +363,123 @@ Received Import Request.
 Start importing Assets/Scenes/GameScene.unity using Guid(8c9cfa26abfee488c85f1582747f6a02) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '12460c7bcfc136a919659bcba040b08d') in 0.004778792 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
+========================================================================
+Received Import Request.
+  Time since last request: 378.406279 seconds.
+  path: Assets/Sprites/men1_serious.png
+  artifactKey: Guid(b07295a9692be44859982d9cf3ec7ea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/men1_serious.png using Guid(b07295a9692be44859982d9cf3ec7ea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '74aa47e10896daa63634e8d5ed0fbc29') in 0.028083584 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/Sprites/men1_thinking.png
+  artifactKey: Guid(39a054310c5ba442ba1296c36d2296cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/men1_thinking.png using Guid(39a054310c5ba442ba1296c36d2296cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bf761efdb6e8a4552b77ff596825eb4e') in 0.018845542 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Sprites/men1_surprised.png
+  artifactKey: Guid(83c97a6c7a1d74df5a19011b0969d4e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/men1_surprised.png using Guid(83c97a6c7a1d74df5a19011b0969d4e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3f0dee591d9a8ae2eb457a22276809fe') in 0.009472875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.745843 seconds.
+  path: Assets/Sprites/men1_surprised.png
+  artifactKey: Guid(83c97a6c7a1d74df5a19011b0969d4e3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/men1_surprised.png using Guid(83c97a6c7a1d74df5a19011b0969d4e3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3f3d4e6e7d592da308f00f4dbc815077') in 0.091380792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.421587 seconds.
+  path: Assets/Sprites/men1.spriteatlasv2
+  artifactKey: Guid(ca51f1e4265094211825433672043c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/men1.spriteatlasv2 using Guid(ca51f1e4265094211825433672043c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5b41921595f3131b82124fa5f9e0f649') in 0.015507667 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.851306 seconds.
+  path: Assets/Sprites/men1.spriteatlasv2
+  artifactKey: Guid(ca51f1e4265094211825433672043c37) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/men1.spriteatlasv2 using Guid(ca51f1e4265094211825433672043c37) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '870e145ff8794436eaa44d466b3e329c') in 0.011856916 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.364659 seconds.
+  path: Assets/Settings/Lit2DSceneTemplate.scenetemplate
+  artifactKey: Guid(d03ed43fc9d8a4f2e9fa70c1c7916eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/Lit2DSceneTemplate.scenetemplate using Guid(d03ed43fc9d8a4f2e9fa70c1c7916eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ff176b870c78400668fde8bd7fdbcd5d') in 0.088107708 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.021244 seconds.
+  path: Assets/Settings/UniversalRP.asset
+  artifactKey: Guid(681886c5eb7344803b6206f758bf0b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/UniversalRP.asset using Guid(681886c5eb7344803b6206f758bf0b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '910a3316ce45b604f98c2ad003aa3cfb') in 0.000774041 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.341016 seconds.
+  path: Assets/Sprites/men1.spriteatlasv2
+  artifactKey: Guid(ca51f1e4265094211825433672043c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/men1.spriteatlasv2 using Guid(ca51f1e4265094211825433672043c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f2efd806159f97e0178a0a14b5266afc') in 0.001205 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.907697 seconds.
+  path: Assets/Sprites/men1.spriteatlasv2
+  artifactKey: Guid(ca51f1e4265094211825433672043c37) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/men1.spriteatlasv2 using Guid(ca51f1e4265094211825433672043c37) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2414e23fa513fde37a1034737f4a334c') in 0.006222625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.790547 seconds.
+  path: Assets/Sprites/men1.spriteatlasv2
+  artifactKey: Guid(ca51f1e4265094211825433672043c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/men1.spriteatlasv2 using Guid(ca51f1e4265094211825433672043c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3b4f446deb4f97bb754de9ff3339ca6b') in 0.000918792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.972668 seconds.
+  path: Assets/Sprites/men1.spriteatlasv2
+  artifactKey: Guid(ca51f1e4265094211825433672043c37) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/men1.spriteatlasv2 using Guid(ca51f1e4265094211825433672043c37) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e64731136d1e9db4849feab0e8edc9f2') in 0.003384375 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.020700 seconds.
+  path: Assets/Sprites/men1.spriteatlasv2
+  artifactKey: Guid(ca51f1e4265094211825433672043c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/men1.spriteatlasv2 using Guid(ca51f1e4265094211825433672043c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6a2a218638dae990778e03b23c4847f9') in 0.000911333 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.959554 seconds.
+  path: Assets/Sprites/men1.spriteatlasv2
+  artifactKey: Guid(ca51f1e4265094211825433672043c37) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Sprites/men1.spriteatlasv2 using Guid(ca51f1e4265094211825433672043c37) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ece3a4675edc726f20d0ecf0be719038') in 0.00475175 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.889165 seconds.
+  path: Assets/Sprites/men1.spriteatlasv2
+  artifactKey: Guid(ca51f1e4265094211825433672043c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/men1.spriteatlasv2 using Guid(ca51f1e4265094211825433672043c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e17ba3566dcb3baa8b12a0418e9b42e5') in 0.010397 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
